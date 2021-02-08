@@ -80,3 +80,5 @@ Herunterladen könnt ihr diese mit dem Befehl `curl -X POST -o DATEINAME.geojson
 Anmerkungen zu dem Befehl:
 1. Neuere Dateien als vom 05.12.2020 sind leider nicht vorhanden
 2. Die Bounding Box wurde von uns zuvor mit https://boundingbox.klokantech.com/ bestimmt.
+3. Für "DATEINAME" bitte den jeweiliggen gewünschten Dateiname einfügen, bei FLÄCHENTYP auf Englisch den Name der Fläche. Die Namen der Landuse Flächen könnt ihr dem OpenStreetMap Wiki entnehmen: 
+https://wiki.openstreetmap.org/wiki/Map_features#Landuse (im Feld Value abzulesen).
