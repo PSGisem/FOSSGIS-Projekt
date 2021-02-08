@@ -75,7 +75,7 @@ Insgesamt sollen folgende verschiedene Flächen für den Bereich von Scotts Vall
 - Wohnfläche
 - Einzelhandelsfläche
 
-Herunterladen könnt ihr diese mit dem Befehl `curl -X POST -o DATEINAME.geojson --data-urlencode "bboxes=-122.041703,37.029156,-121.983888,37.08064" --data-urlencode "time=2020-12-05" --data-urlencode "filter=landuse=FLÄCHENTYP and type:node or landuse=FLÄCHENTYP and (geometry:polygon)" "https://api.ohsome.org/v1/elements/geometry"
+Herunterladen könnt ihr diese mit dem Befehl `curl -X POST -o DATEINAME.geojson --data-urlencode "bboxes=-122.041703,37.029156,-121.983888,37.08064" --data-urlencode "time=2020-12-05" --data-urlencode "filter=landuse=FLÄCHENTYP and type:node or landuse=FLÄCHENTYP and (geometry:polygon)" "https://api.ohsome.org/v1/elements/geometry"`
 
 Anmerkungen zu dem Befehl:
 1. Neuere Dateien als vom 05.12.2020 sind leider nicht vorhanden
