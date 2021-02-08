@@ -52,11 +52,11 @@ Es sollen nun alle fünf Layer bezogen auf ihre Beziehung untereinander klassifi
 
 Unsere Klassifizierung sah folgende Wertigkeiten vor: (1: geringe Wichtigkeit, 2: mittlere Wichtigkeit, 3: hohe Wichtigkeit, 4: sehr hohe Wichtigkeit)
 
-Wind: 1
-Bodenfeuchte: 2
-Temperatur: 3
-Vegetation: 3
-Niederschlag: 4
+- Geringe Wichtigkeit (1) --> Wind
+- Mittlere Wichtigkeit (2) --> Bodenfeuchte
+- Hohe Wichtigkeit (3) --> Temperatur
+- Sehr hohe Wichtigkeit (4) --> Niederschlag
+
 
 Lässt den Prozess durchlaufen und speichert die neue Rasterdatei dauerhaft ab.
 
