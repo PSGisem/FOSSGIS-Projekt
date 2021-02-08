@@ -33,12 +33,12 @@ Ladet euch zunächst die Dateien der Risikoanalyse runter, dann die der Vulnerab
 
 Öffnet nun QGIS. Stellt eure Koordinatensystem unten rechts auf das folgende ein: WGS 84 / UTM zone 32 N, EPSG: 32610.
 
-Ladet folgende Dateien in Qgis:
-Niederschlagslayer
-Bodenfeuchtelayer
-Temperaturlayer
-Vegetationslayer
-Windlayer.
+Ladet folgende Dateien in Qgis: <br/>
+- Niederschlagslayer
+- Bodenfeuchtelayer
+- Temperaturlayer
+- Vegetationslayer
+- Windlayer.
 
 ## 2. Klassifizierung innerhalb der Layer
 
