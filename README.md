@@ -27,7 +27,7 @@ Im Ordner "Präsentation" könnt ihr unsere Präsentation sowie gesondert unsere
 
 ## 1. Vorbereitung
 
-Bitte erstellt einen neuen Ordner `Risikoanalyse_Santa_Cruz` oder ähnliches; eine saubere Ordnerstruktur von Beginn an ist sehr wichtig.
+Bitte erstellt einen neuen Ordner namens `Risikoanalyse_Santa_Cruz` (oder ähnlich); eine saubere Ordnerstruktur von Beginn an ist sehr wichtig.
 
 Ladet euch zunächst die Dateien der Risikoanalyse runter, dann die der Vulnerabilitätsanalyse. Speichert diese getrennt in eurem `Risikoanalyse_Santa_Cruz` Ordner
 
