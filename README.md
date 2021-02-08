@@ -3,3 +3,6 @@
 Autoren: Schindler, Pascal; Steinheber, Judith; Weiser, David <br/>
 Dozentin: Christina Ludwig <br/>
 Wintersemester 2020 / 2021 <br/>
+
+
+# Wildfeueranalyse in Kalifornien
