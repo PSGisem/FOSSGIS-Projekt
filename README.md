@@ -5,4 +5,10 @@ Dozentin: Christina Ludwig <br/>
 Wintersemester 2020 / 2021 <br/>
 
 
-# Wildfeueranalyse in Kalifornien
+#Risikoanalyse - Wildfeueranalyse in Kalifornien <br/>
+
+
+Dies ist unsere Github Seite für unsere Wildfeueranalyse in Kalifornien bzw. Santa Cruz.
+
+
+
