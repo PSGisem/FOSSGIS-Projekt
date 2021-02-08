@@ -19,19 +19,19 @@ Dies ist unsere Github Seite für unsere Wildfeueranalyse in Kalifornien bzw. Sa
 
 Zunächst ein grundlegender kurzer Überblick über unsere doch recht einfach aufgebaute Github seite. <br/>
 
-Im Ordner `Dateien` findet ihr alle für die Analyse relevanten Dateien. <br/>
+Im Ordner `Dateien` sind alle für die Analyse relevanten Dateien zu finden. <br/>
 
-Dieser Ordner ist noch mal weiter unterteit; einerseits in den Ordner für die Risiko-, andererseits in den Ordner für die Vulnerabilitätsdaten.
+Dieser Ordner ist noch mal weiter unterteilt; einerseits in den Ordner für die Risiko-, andererseits in den Ordner für die Vulnerabilitätsdaten.
 
-Im Ordner "Präsentation" könnt ihr unsere Präsentation sowie gesondert unsere Abbildungen in Origianlgröße finden.
+Im Ordner "Präsentation" könnt ihr unsere Präsentation sowie gesondert unsere Abbildungen in Originalgröße finden.
 
 ## 1. Vorbereitung
 
-Bitte erstellt einen neuen Ordner namens `Risikoanalyse_Santa_Cruz` (oder ähnlich); eine saubere Ordnerstruktur von Beginn an ist sehr wichtig.
+Erstellt einen neuen Ordner namens `Risikoanalyse_Santa_Cruz` (oder ähnlich); eine saubere Ordnerstruktur von Beginn an ist sehr wichtig.
 
 Ladet euch zunächst die Dateien der Risikoanalyse runter, dann die der Vulnerabilitätsanalyse. Speichert diese getrennt in eurem `Risikoanalyse_Santa_Cruz` Ordner
 
-Öffnet nun QGIS. Stellt eure Koordinatensystem unten rechts auf das folgende ein: WGS 84 / UTM zone 32 N, EPSG: 32610.
+Öffnet nun QGIS. Stellt das Koordinatensystem unten rechts auf `WGS 84 / UTM zone 32 N, EPSG: 32610` ein.
 
 Ladet folgende Dateien in QGis: <br/>
 - Niederschlagslayer
@@ -80,5 +80,5 @@ Herunterladen könnt ihr diese mit dem Befehl `curl -X POST -o DATEINAME.geojson
 Anmerkungen zu dem Befehl:
 1. Neuere Dateien als vom 05.12.2020 sind leider nicht vorhanden
 2. Die Bounding Box wurde von uns zuvor mit https://boundingbox.klokantech.com/ bestimmt.
-3. Für "DATEINAME" bitte den jeweiliggen gewünschten Dateiname einfügen, bei FLÄCHENTYP auf Englisch den Name der Fläche. Die Namen der Landuse Flächen könnt ihr dem OpenStreetMap Wiki entnehmen: 
+3. Für "DATEINAME" bitte den jeweiligen gewünschten Dateiname einfügen, bei FLÄCHENTYP auf Englisch den Name der Fläche. Die Namen der Landuse-Flächen könnt ihr dem OpenStreetMap Wiki entnehmen: 
 https://wiki.openstreetmap.org/wiki/Map_features#Landuse (im Feld Value abzulesen).
