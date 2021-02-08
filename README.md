@@ -1,6 +1,9 @@
 # FOSSGIS-Projekt WS 2020 / 2021
 
-Autoren: Schindler, Pascal; Steinheber, Judith; Weiser, David <br/>
+Autoren: 
+- Schindler, Pascal
+- Steinheber, Judith
+- Weiser, David <br/>
 Dozentin: Christina Ludwig <br/>
 Wintersemester 2020 / 2021 <br/>
 
@@ -40,7 +43,7 @@ Windlayer.
 
 Jeder Layer muss nun mit individuellen Werten klassifiziert werden. Dies geschieht mit dem Tool `Reclassify by Table` , zu finden ebenfalls bei den Verarbeitungswerkzeugen.
 
-## 2. Klassifizierung der einzelnen Layer
+## 3. Klassifizierung der einzelnen Layer
 
 Sucht bei den Verarbeitungswerkzeugen bzw. in der Processing Toolbox nach dem "Raster calculator". Öffnet diesen.
 
