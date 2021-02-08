@@ -44,7 +44,7 @@ Ladet folgende Dateien in QGis: <br/>
 
 Jeder Layer muss nun mit individuellen Werten klassifiziert werden. Dies geschieht mit dem Tool `Reclassify by Table` , zu finden ebenfalls bei den Verarbeitungswerkzeugen.
 
-Schaut euch mithilfe der Histogramme die verschidenen Wertigkeiten der Rasterlayer an und entscheidet, wo ihr die Klassengrenzen setzt. Für eine sinnvolle Vergleichbarkeit und bessere Übersichtlichkeit soll jeder Layer in fünf Klassen eingeteilt werden.
+Schaut euch mithilfe der Histogramme die verschiedenen Wertigkeiten der Rasterlayer an und entscheidet, wo ihr die Klassengrenzen setzt. Für eine sinnvolle Vergleichbarkeit und bessere Übersichtlichkeit soll jeder Layer in fünf Klassen eingeteilt werden.
 
 ## 3. Klassifizierung der einzelnen Layer
 
