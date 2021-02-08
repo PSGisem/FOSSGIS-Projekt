@@ -18,3 +18,13 @@ Zunächst ein grundlegender kurzer Überblick über unsere doch recht einfach au
 Im Ordner `Dateien` findet ihr alle für die Analyse relevanten Dateien. <br/>
 
 Dieser Ordner ist noch mal weiter unterteit; einerseits in den Ordner für die Risiko-, andererseits in den Ordner für die Vulnerabilitätsdaten.
+
+Im Ordner "Präsentation" könnt ihr unsere Präsentation sowie gesondert unsere Abbildungen in Origianlgröße finden.
+
+## 1. Vorbereitung
+
+Bitte erstellt einen neuen Ordner 'Risikoanalyse_Santa_Cruz' oder ähnliches; eine saubere Ordnerstruktur von Beginn an ist sehr wichtig.
+
+Ladet euch zunächst die Dateien der Risikoanalyse runter, dann die der Vulnerabilitätsanalyse. Speichert diese getrennt in eurem 'Risikoanalyse_Santa_Cruz' Ordner
+
+
