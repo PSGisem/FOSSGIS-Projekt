@@ -36,10 +36,24 @@ Temperaturlayer
 Vegetationslayer
 Windlayer.
 
-## 2. Klassifizierung
+## 2. Klassifizierung innerhalb der Layer
+
+Jeder Layer muss nun mit individuellen Werten klassifiziert werden. Dies geschieht mit dem Tool `Reclassify by Table` , zu finden ebenfalls bei den Verarbeitungswerkzeugen.
+
+## 2. Klassifizierung der einzelnen Layer
 
 Sucht bei den Verarbeitungswerkzeugen bzw. in der Processing Toolbox nach dem "Raster calculator". Öffnet diesen.
 
-Es sollen nun alle fünf Layer klassifiziert werden. Ihr könnt verschiedene Klassifizierungen ausprobieren und beobachten, wie sich die Ergebniskarte unterschiedlich verhält.
+Es sollen nun alle fünf Layer bezogen auf ihre Beziehung untereinander klassifiziert werden. Ihr könnt verschiedene Klassifizierungen ausprobieren und beobachten, wie sich die Ergebniskarte unterschiedlich verhält.
 
+Unsere Klassifizierung sah folgende Wertigkeiten vor: (1: geringe Wichtigkeit, 2: mittlere Wichtigkeit, 3: hohe Wichtigkeit, 4: sehr hohe Wichtigkeit)
 
+Wind: 1
+Bodenfeuchte: 2
+Temperatur: 3
+Vegetation: 3
+Niederschlag: 4
+
+Lässt den Prozess durchlaufen und speichert die neue Rasterdatei dauerhaft ab.
+
+## 3. 
