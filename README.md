@@ -33,12 +33,12 @@ Ladet euch zunächst die Dateien der Risikoanalyse runter, dann die der Vulnerab
 
 Öffnet nun QGIS. Stellt eure Koordinatensystem unten rechts auf das folgende ein: WGS 84 / UTM zone 32 N, EPSG: 32610.
 
-Ladet folgende Dateien in Qgis: <br/>
+Ladet folgende Dateien in QGis: <br/>
 - Niederschlagslayer
 - Bodenfeuchtelayer
 - Temperaturlayer
 - Vegetationslayer
-- Windlayer.
+- Windlayer
 
 ## 2. Klassifizierung innerhalb der Layer
 
@@ -62,4 +62,21 @@ Unsere Klassifizierung sah folgende Wertigkeiten vor:
 
 Lässt den Prozess durchlaufen und speichert die neue Rasterdatei dauerhaft ab.
 
-## 3. 
+## 4. Herunterladen der OpenSteetMap-Dateien
+
+Die OpenSteetMap Dateien könnt ihr mithilfe der ohsome APi herunterladen.
+Insgesamt sollen folgende verschiedene Flächen für den Bereich von Scotts Valley heruntergeladen werden:
+
+- Fläche für kommerzielle Gebäude
+- Landwirtschaftlich genutzte Fläche
+- Waldfläche
+- Industriell genutzte Fläche
+- Wiesenfläche
+- Wohnfläche
+- Einzelhandelsfläche
+
+Herunterladen könnt ihr diese mit dem Befehl `curl -X POST -o DATEINAME.geojson --data-urlencode "bboxes=-122.041703,37.029156,-121.983888,37.08064" --data-urlencode "time=2020-12-05" --data-urlencode "filter=landuse=FLÄCHENTYP and type:node or landuse=FLÄCHENTYP and (geometry:polygon)" "https://api.ohsome.org/v1/elements/geometry"
+
+Anmerkungen zu dem Befehl:
+1. Neuere Dateien als vom 05.12.2020 sind leider nicht vorhanden
+2. Die Bounding Box wurde von uns zuvor mit https://boundingbox.klokantech.com/ bestimmt.
