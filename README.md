@@ -44,17 +44,19 @@ Windlayer.
 
 Jeder Layer muss nun mit individuellen Werten klassifiziert werden. Dies geschieht mit dem Tool `Reclassify by Table` , zu finden ebenfalls bei den Verarbeitungswerkzeugen.
 
+Schaut euch mithilfe der Histogramme die verschidenen Wertigkeiten der Rasterlayer an und entscheidet, wo ihr die Klassengrenzen setzt. Für eine sinnvolle Vergleichbarkeit und bessere Übersichtlichkeit soll jeder Layer in fünf Klassen eingeteilt werden.
+
 ## 3. Klassifizierung der einzelnen Layer
 
 Sucht bei den Verarbeitungswerkzeugen bzw. in der Processing Toolbox nach dem "Raster calculator". Öffnet diesen.
 
 Es sollen nun alle fünf Layer bezogen auf ihre Beziehung untereinander klassifiziert werden. Ihr könnt verschiedene Klassifizierungen ausprobieren und beobachten, wie sich die Ergebniskarte unterschiedlich verhält.
 
-Unsere Klassifizierung sah folgende Wertigkeiten vor: (1: geringe Wichtigkeit, 2: mittlere Wichtigkeit, 3: hohe Wichtigkeit, 4: sehr hohe Wichtigkeit)
+Unsere Klassifizierung sah folgende Wertigkeiten vor:
 
 - Geringe Wichtigkeit (1) --> Wind
 - Mittlere Wichtigkeit (2) --> Bodenfeuchte
-- Hohe Wichtigkeit (3) --> Temperatur
+- Hohe Wichtigkeit (3) --> Temperatur, Vegetation
 - Sehr hohe Wichtigkeit (4) --> Niederschlag
 
 
