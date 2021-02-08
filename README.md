@@ -23,8 +23,23 @@ Im Ordner "Präsentation" könnt ihr unsere Präsentation sowie gesondert unsere
 
 ## 1. Vorbereitung
 
-Bitte erstellt einen neuen Ordner 'Risikoanalyse_Santa_Cruz' oder ähnliches; eine saubere Ordnerstruktur von Beginn an ist sehr wichtig.
+Bitte erstellt einen neuen Ordner `Risikoanalyse_Santa_Cruz` oder ähnliches; eine saubere Ordnerstruktur von Beginn an ist sehr wichtig.
 
-Ladet euch zunächst die Dateien der Risikoanalyse runter, dann die der Vulnerabilitätsanalyse. Speichert diese getrennt in eurem 'Risikoanalyse_Santa_Cruz' Ordner
+Ladet euch zunächst die Dateien der Risikoanalyse runter, dann die der Vulnerabilitätsanalyse. Speichert diese getrennt in eurem `Risikoanalyse_Santa_Cruz` Ordner
+
+Öffnet nun QGIS. Stellt eure Koordinatensystem unten rechts auf das folgende ein: WGS 84 / UTM zone 32 N, EPSG: 32610.
+
+Ladet folgende Dateien in Qgis:
+Niederschlagslayer
+Bodenfeuchtelayer
+Temperaturlayer
+Vegetationslayer
+Windlayer.
+
+## 2. Klassifizierung
+
+Sucht bei den Verarbeitungswerkzeugen bzw. in der Processing Toolbox nach dem "Raster calculator". Öffnet diesen.
+
+Es sollen nun alle fünf Layer klassifiziert werden. Ihr könnt verschiedene Klassifizierungen ausprobieren und beobachten, wie sich die Ergebniskarte unterschiedlich verhält.
 
 
