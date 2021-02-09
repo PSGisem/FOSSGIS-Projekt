@@ -46,13 +46,15 @@ Jeder Layer muss nun mit individuellen Werten klassifiziert werden. Dies geschie
 
 Schaut euch mithilfe der Histogramme die verschiedenen Wertigkeiten der Rasterlayer an und entscheidet, wo ihr die Klassengrenzen setzt. Für eine sinnvolle Vergleichbarkeit und bessere Übersichtlichkeit soll jeder Layer in fünf Klassen eingeteilt werden.
 
+Unsere Klassifizierungen innerhalb der einzelnen Layer sind als PDF mit dem Namen "Klassifizierungen" in unserem Dateienordner zu finden.
+
 ## 3. Klassifizierung der einzelnen Layer
 
 Sucht bei den Verarbeitungswerkzeugen bzw. in der Processing Toolbox nach dem "Raster calculator". Öffnet diesen.
 
 Es sollen nun alle fünf Layer bezogen auf ihre Beziehung untereinander klassifiziert werden. Ihr könnt verschiedene Klassifizierungen ausprobieren und beobachten, wie sich die Ergebniskarte unterschiedlich verhält.
 
-Unsere Klassifizierung sah folgende Wertigkeiten vor:
+Unsere Wertigkeiten der einzelnen Layer sind wie folgt:
 
 - Geringe Wichtigkeit (1) --> Wind
 - Mittlere Wichtigkeit (2) --> Bodenfeuchte
