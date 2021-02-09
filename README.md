@@ -66,7 +66,7 @@ Lässt den Prozess durchlaufen und speichert die neue Rasterdatei dauerhaft ab.
 
 ## 4. Herunterladen der OpenSteetMap-Dateien
 
-Die OpenSteetMap Dateien könnt ihr mithilfe der ohsome APi herunterladen.
+Die OpenSteetMap Dateien könnt ihr mithilfe der ohsome API herunterladen.
 Insgesamt sollen folgende verschiedene Flächen für den Bereich von Scotts Valley heruntergeladen werden:
 
 - Fläche für kommerzielle Gebäude
