@@ -31,7 +31,7 @@ Erstellt einen neuen Ordner namens `Risikoanalyse_Santa_Cruz` (oder ähnlich); e
 
 Ladet euch zunächst die Dateien der Risikoanalyse runter, dann die der Vulnerabilitätsanalyse. Speichert diese getrennt in eurem `Risikoanalyse_Santa_Cruz` Ordner
 
-Öffnet nun QGIS. Stellt das Koordinatensystem unten rechts auf `WGS 84 / UTM zone 32 N, EPSG: 32610` ein.
+Öffnet nun QGIS. Stellt das Koordinatensystem unten rechts auf `WGS 84 / UTM zone 10 N, EPSG: 32610` ein.
 
 Ladet folgende Dateien in QGis: <br/>
 - Niederschlagslayer
