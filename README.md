@@ -61,8 +61,8 @@ Unsere Wertigkeiten der einzelnen Layer sind wie folgt:
 - Hohe Wichtigkeit (3) --> Temperatur, Vegetation
 - Sehr hohe Wichtigkeit (4) --> Niederschlag
 
-
-Lässt den Prozess durchlaufen und speichert die neue Rasterdatei dauerhaft ab.
+Als Referenzlayer bietet sich das Vegetations-Layer an, da es die höchste Auflösung besitzt. Als Koordinatensystem könnt ihr `WGS 84 / UTM zone 10 N, EPSG: 32610` wählen.
+Lasst den Prozess durchlaufen und speichert die neue Rasterdatei dauerhaft ab.
 
 ## 4. Herunterladen der OpenSteetMap-Dateien
 
